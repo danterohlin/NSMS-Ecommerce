@@ -1,0 +1,38 @@
+.title {
+    cursor: pointer;
+    color: rgb(94, 94, 94);
+    font-size: 14px;
+    width: 100%;
+    text-align: center;
+}
+
+.nav_wrapper {
+    width: 100%;
+    box-shadow: 0px 0px 4px 0px rgba(0,0,0, 0.2);
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+    padding: 0px;
+    width: 60%;
+    position: relative;
+    margin: auto;
+}
+
+.back {
+    cursor:pointer;
+    position: absolute;
+    left: 0;
+}
+
+.auth {
+    position: absolute;
+    right: 0;
+}
+
+.auth img {
+    max-width: 30px;
+}

@@ -1,0 +1,13 @@
+.product_wrapper {
+    max-width: 600px;
+    margin: auto;
+    padding: 42px 24px;
+}
+
+.product_image {
+    margin: 10px 0px;
+}
+
+.product_content {
+    padding: 10px 0px;
+}

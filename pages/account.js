@@ -31,7 +31,6 @@ const useOrders = (user, getToken) => {
                 setLoading(false)
             }
         }
-
         fetchOrders()
     }, [user])
 
